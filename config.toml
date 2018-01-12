@@ -1,0 +1,40 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Avi's Mysterious Playground"
+#theme = "ananke"
+#theme = "hugo-initio"
+theme = "hugo-split-theme"
+
+[params]
+	name = "Avinash Shenoy"
+	description = "A curious techie on the cusp of finding his path"
+	year = "2017"
+	twitterHandle = "nic_nash"
+	#publishDir = "docs"
+
+	copyright = "&copy;2018 Avinash Shenoy"
+
+[params.content]
+	name = "Avinash Shenoy"
+	tagline = "Engineer. Investor. Dreamer"
+	bio = "A software engineer by profession who currently works at Akamai. On my personal time, I spend a lot of time these days thinking about pain points for average investor in the world of finance."
+
+[params.visual]
+	[params.visual.image]
+		enable = true
+		file = "images/background.JPG"
+		position = "center center"
+
+# Links
+[[params.links]]
+	[params.links.list1]
+		heading = "Follow"
+
+		[[params.links.list1.link]]
+			text = "LinkedIn"
+			url = "https://www.linkedin.com/in/avinash-shenoy-50220016/"
+
+		[[params.links.list1.link]]
+			text = "Twitter"
+			url = "https://twitter.com/nic_nash"
+	
