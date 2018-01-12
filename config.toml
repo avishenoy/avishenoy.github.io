@@ -10,7 +10,7 @@ theme = "hugo-split-theme"
 	description = "A curious techie on the cusp of finding his path"
 	year = "2017"
 	twitterHandle = "nic_nash"
-	publishDir = "docs"
+	#publishDir = "docs"
 
 	copyright = "&copy;2018 Avinash Shenoy"
 
