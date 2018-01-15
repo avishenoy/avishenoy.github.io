@@ -16,8 +16,8 @@ theme = "hugo-split-theme"
 
 [params.content]
 	name = "Avinash Shenoy"
-	tagline = "Engineer. Investor. Dreamer"
-	bio = "A software engineer by profession who currently works at Akamai. On my personal time, I spend a lot of time these days thinking about pain points for average investor in the world of finance."
+	tagline = "Engineer. Investor. Dreamer."
+	bio = "A software engineer by profession who currently works at Akamai. On my personal time, I find myself analyzing pain points faced by an average investor in the world of finance today and exploring ways to solve them."
 
 [params.visual]
 	[params.visual.image]
