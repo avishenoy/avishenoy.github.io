@@ -12,7 +12,7 @@ theme = "hugo-split-theme"
 	twitterHandle = "nic_nash"
 	#publishDir = "docs"
 
-	copyright = "&copy;2018 Avinash Shenoy"
+	copyright = "&copy;2023 Avinash Shenoy"
 
 [params.content]
 	name = "Avinash Shenoy"
