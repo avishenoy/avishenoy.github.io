@@ -37,4 +37,8 @@ theme = "hugo-split-theme"
 		[[params.links.list1.link]]
 			text = "Twitter"
 			url = "https://twitter.com/nic_nash"
+
+   		[[params.links.list1.link]]
+			text = "Blog"
+			url = "https://www.naiveinvestor.com/"
 	
